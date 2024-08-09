@@ -80,7 +80,7 @@ Pillow
 You can view the demo video of our AI for Sustainable Agriculture project [ANNदाता](https://www.youtube.com/watch?v=w-l_76hKMfY).
 
 ## Blog on Medium
-To learn more about the inspiration, challenges, and future directions of the "[ANNदाता]" project, you can read the detailed blog on Medium: ["Will AI Replace Humans? Exploring the Future of Work and Society"](https://medium.com/@omshankar466/harnessing-ai-for-sustainable-farming-the-journey-of-ann%E0%A4%A6%E0%A4%BE%E0%A4%A4%E0%A4%BE-b527d5dbea2a).
+To learn more about the inspiration, challenges, and future directions of the "[ANNदाता]" project, you can read the detailed blog on Medium: ["Harnessing AI for Sustainable Farming: The Journey of [ANNदाता]"](https://medium.com/@omshankar466/harnessing-ai-for-sustainable-farming-the-journey-of-ann%E0%A4%A6%E0%A4%BE%E0%A4%A4%E0%A4%BE-b527d5dbea2a).
 
 ## Provide Feedback:
 - We welcome your feedback on the usability, performance, and features of the web application. Feel free to open an issue or submit a pull request with your suggestions and contributions.
