@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'Cassia W01 Medium';
+    src: url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.eot');
+    src: url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.svg#cassia_w01_medium') format('svg');
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    transition: 0.5s;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2000;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar a {
+    align-items: flex-start;
+    color: #081c15;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Cassia W01 Medium';
+    /* font-family: "Anta"; */
+    font-weight: 500;
+    font-style: normal;
+}
+
+.navbar a:hover {
+    color: #f2ae16;
+}
+
+.logo {
+    width: 100px;
+    cursor: pointer;
+}
+
+ul {
+    flex: 1;
+    text-align: left;
+}
+
+ul li {
+    display: inline-block;
+    margin: 20px 15px;
+    cursor: pointer;
+}
+
+.toggle-icon {
+    width: 30px;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    background: #17bf9e;
+    width: 15rem;
+    border-radius: 50px;
+}
+
+.search-box input {
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: #fff;
+    font-size: 16px;
+    font-family: "Anta";
+    max-width: 200px;
+}
+
+.search-box input::placeholder {
+    color: #fff;
+}
+
+.search-box img {
+    width: 15px;
+    cursor: pointer;
+}
+
+.dark .navbar {
+    background: #000;
+    color: #fff;
+}
+
+.dark .search-box {
+    background: #fff;
+}
+
+.dark .search-box input {
+    color: #222;
+}
+
+.dark .search-box input::placeholder {
+    color: #222;
+}
+
+.loginid {
+    margin-right:2em;
+    font-size: 17px;
+    background-color: #17bf9e;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 6rem;
+    border-radius: 30px;
+  }
+
+.logout {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+}
+
+.logout-box {
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    border: 1px solid black;
+    box-shadow: 10px 15px 5px rgba(0, 0, 0, 0.35);
+}
+
+.logout-content {
+    text-align: center;
+}
+
+.logout-heading {
+    font-size: 1rem;
+    color: #081c15;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.logout-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.logout-buttons button {
+    background-color: #17bf9e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.logout-buttons button:hover {
+    background-color: #0c8069;
+}
+
+.menu-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  ul {
+    flex: 1;
+    text-align: left;
+  }
+  
+  ul li {
+    display: inline-block;
+    margin: 20px 15px;
+    cursor: pointer;
+  }

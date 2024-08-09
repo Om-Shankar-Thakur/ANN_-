@@ -1,0 +1,140 @@
+.setBack {
+    margin-top: 3rem;
+    background-color: #f0fcfc;
+    height: 200px;
+    top: 30px;
+}
+  
+  .logoImage img {
+    max-width: 150px;
+    max-height: 150px;
+    background-color: #ffffff;
+  }
+
+  .logoImage {
+    margin-right: 20px;
+  }
+
+.head_part {
+    width: 80%;
+    margin: auto;
+    padding: 20px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.head_part > .logoImage {
+    width: 20%;
+}
+
+.head_part > .logoImage > img {
+    border: 1px solid rgb(216, 216, 218);
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.FrontInfo {
+    width: 50%;
+    margin-left: 20px;
+}
+
+.FrontInfo > b:nth-child(1) {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.FrontInfo > .FrontNature {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px 30px 10px 0px;
+}
+
+.FrontInfo > .FrontNature > .FrontNature_div {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.FrontFollow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 10px;
+    width: 25%;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.FrontFollow > button {
+    background-color: rgb(54, 186, 252);
+    color: white;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0px 20px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.overview {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.overview > .left_one {
+    width: 70%;
+}
+
+.overview > .left_one > .moreInfo {
+    margin: 20px 10px;
+}
+
+.overview > .left_one > .moreInfo > b {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.overview > .left_one > .moreInfo > p {
+    padding: 6px 0px;
+}
+
+.overview > .right_ratings {
+    width: 30%;
+    margin-top: 35px;
+}
+
+.overview > .right_ratings > img {
+    width: 100%;
+    cursor: pointer;
+}
+
+.left_one > p {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.job_open {
+    border: 1px solid rgb(202, 202, 202);
+    padding: 10px;
+    margin-top: 20px;
+    width: 95%;
+    border-radius: 10px;
+}
+
+.footer-container {
+    margin-top: 500px;
+  }
+  
+@media only screen and (max-width: 800px) {
+    .overview {
+        display: flex;
+        flex-direction: column;
+    }
+}

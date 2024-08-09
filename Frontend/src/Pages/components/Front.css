@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'Cassia W01 Medium';
+    src: url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.eot');
+    src: url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/5631a857522eeac0869ed6c260572329.svg#cassia_w01_medium') format('svg');
+}
+.front_bg{
+    background-color: #f0fff0;
+    padding-bottom: 1rem;
+}
+
+.top {
+    padding-top: 7.5rem;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #224f22;
+}
+.top h2{
+    color:#224f22;
+    font-family: 'Cassia W01 Medium';
+}
+
+.container{
+    background-color: #f0fff0;
+}
+
+.Front_main {
+    width: 85%;
+    margin: 80px auto;
+    display: flex;
+    justify-content: space-between; /* Add space-between to evenly distribute items */
+}
+
+.Front_main > .comp_showlist {
+    width: 60%; /* Adjusted width for the Front show list */
+}
+
+.Front_card {
+    border: 1px solid rgb(230, 230, 230);
+    width: 100%; /* Equal width for both cards */
+    height: auto;
+    display: flex;
+    padding: 10px;
+    display: flex;
+    background-color: #c1eac1;
+    justify-content: center;
+    border-radius: 20px 5px 20px 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.Front_card:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color:#a4d9a4;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.Front_card > .logo_image {
+    border: 1px solid rgb(211, 211, 211);
+    width: 175px;
+    height: 175px;
+    border-radius: 20px;
+}
+
+.Front_info {
+    margin: 0px 10px;
+    flex-grow: 1; /* Allow the Front info to grow to occupy available space */
+}
+
+.Front_info > p {
+    margin-top: 1em;
+    font-family: 'Cassia W01 Medium';
+    font-size: 20px;
+    text-decoration: none;
+    color:#224f22;
+}
+.Front_info > p:hover {
+    color:#8a2be2;
+}
+
+
+.align-right {
+    text-align: right;
+    margin-top: 20px; 
+      margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .Front_card {
+        width: 90%;
+        height: auto;
+    }
+
+    .logo_image {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .Front_card {
+        width: 80%;
+        height: auto;
+    }
+
+    .Front_card > .logo_image {
+        width: 80px;
+        height: 80px;
+    }
+}
+  
+.companies_list {
+    gap: 30px;
+  }
+
+.Front_main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+  
+.features_div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin: 5px 0px;
+}
+.features_div>div{
+    border: 1px solid #224f22;
+    font-size: 14px;
+    padding: 1px 4px;
+    border-radius: 10px;
+    color: #333333;
+}
+.features_div>div:hover{
+    border: 1px solid #8a2be2;
+    color: #8a2be2;
+}
+/* .features_div_right>div{
+    border: 1px solid #224f22;
+    justify-content: space-around;
+    font-size: 14px;
+    padding: 1px 4px;
+    border-radius: 10px;
+    color: #333333;
+}
+.features_div_right>div:hover{
+    border: 1px solid #8a2be2;
+    color: #8a2be2;
+} */
+

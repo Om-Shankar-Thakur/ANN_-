@@ -1,0 +1,57 @@
+
+# Plant Disease Detection
+
+## Overview
+Plant Disease Detection is a project focused on automating the identification of diseases in plants using machine learning techniques. By analyzing images of diseased plants, the system can classify and diagnose the type of disease present, enabling early detection and intervention to prevent crop losses.
+
+## Installation
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/Om-Shankar-Thakur/plant-disease-detection.git
+   ```
+2. Navigate to the project directory.
+   ```bash
+   cd plant-disease-detection
+   ```
+3. Install the required Python packages.
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+1. Ensure you have Python installed on your system.
+2. Navigate to the project directory.
+3. Run the main script to start the plant disease detection system.
+   ```bash
+   streamlit run app.py --server.port 8080
+   ```
+4. The system will prompt you to input an image of a plant.
+5. After providing the image, the system will analyze it and provide the detected disease along with any relevant information.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch.
+   ```bash
+   git checkout -b feature/my-feature
+   ```
+3. Make your changes and commit them.
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push to the branch.
+   ```bash
+   git push origin feature/my-feature
+   ```
+5. Create a pull request detailing your changes.
+
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+If you have any questions or suggestions, feel free to contact us at [Avinash Dubey](mailto:avinashdubey14042003@gmail.com).
+
+---
+Feel free to customize this template to fit the specifics of your project, such as adding more detailed instructions, including examples, or providing information about specific functionalities or the dataset used.
