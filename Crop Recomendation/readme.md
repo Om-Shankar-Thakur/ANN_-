@@ -46,9 +46,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    ```
 5. Create a pull request detailing your changes.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-If you have any questions or suggestions, feel free to contact us at [Avinash Dubey](mailto:avinashdubey14042003@gmail.com).
+If you have any questions or suggestions, feel free to contact us at:
+- [Om Shankar Thakur](https://www.linkedin.com/in/om-shankar-86981b224/)
+- [Danyal Habib](https://www.linkedin.com/in/danyal-habib-500bb2265)
+- [Amber Bagchi](https://www.linkedin.com/in/amber-bagchi-1031a9288/)
+- [Avinash Dubey](https://www.linkedin.com/in/avinash-dubey-036a07271/)
+- [Ankit Kumar](https://www.linkedin.com/in/ankit-kumar-57b128284/)
 
