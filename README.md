@@ -1,7 +1,7 @@
 # AI for Sustainable Agriculture
 
 ## Overview
-Welcome to the AI for Sustainable Agriculture project! This repository hosts a comprehensive AI solution aimed at revolutionizing farming practices to promote sustainability, optimize resource management, and improve productivity. By integrating various AI-powered modules, we offer a holistic approach to address key challenges in agriculture.
+Welcome  to the AI for Sustainable Agriculture project! This repository hosts a comprehensive AI solution aimed at revolutionizing farming practices to promote sustainability, optimize resource management, and improve productivity. By integrating various AI-powered modules, we offer a holistic approach to address key challenges in agriculture.
 
 ## Project Details
 Our project focuses on five main components:
