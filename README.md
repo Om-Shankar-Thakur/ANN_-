@@ -83,7 +83,7 @@ You can view the demo video of our AI for Sustainable Agriculture project [ANN�
 To learn more about the inspiration, challenges, and future directions of the "[ANNदाता]" project, you can read the detailed blog on Medium: ["Harnessing AI for Sustainable Farming: The Journey of [ANNदाता]"](https://medium.com/@omshankar466/harnessing-ai-for-sustainable-farming-the-journey-of-ann%E0%A4%A6%E0%A4%BE%E0%A4%A4%E0%A4%BE-b527d5dbea2a).
 
 ## Provide Feedback:
-- We welcome your feedback on the usability, performance, and features of the web application. Feel free to open an issue or submit a pull request with your suggestions and contributions.
+- We welcome your feedback on the usability, performance, and features of the web application. Feel free to open an issue or submit a pull request with your suggestions and contributions. 
 
 ## Contact Us
 Feel free to reach out to any of our team members with questions, feedback, or collaboration opportunities:
