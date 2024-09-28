@@ -7,7 +7,7 @@ Welcome  to the AI for Sustainable Agriculture project! This repository hosts a 
 Our project focuses on five main components:
 
 1. **Crop Monitoring and Management:**
-We have implemented Plant Disease Detection which is focused on automating the identification of diseases in plants using machine learning techniques. By analyzing images of diseased plants, the system can classify and diagnose the type of disease present, enabling early detection and intervention to prevent crop losses.
+We have implemented Plant Disease Detection which is focused on automating the identification of diseases in plant using machine learning techniques. By analyzing images of diseased plants, the system can classify and diagnose the type of disease present, enabling early detection and intervention to prevent crop losses.
 
 2. **Precision Agriculture:**
 Precision is analyzed via crop yield prediction is a project aimed at forecasting the yield of crops based on various factors such as weather conditions, soil quality, and agricultural practices. By leveraging machine learning algorithms, this system helps farmers make informed decisions regarding crop planning, resource allocation, and risk management.
