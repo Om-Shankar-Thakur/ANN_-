@@ -86,12 +86,9 @@ To learn more about the inspiration, challenges, and future directions of the "[
 - We welcome your feedback on the usability, performance, and features of the web application. Feel free to open an issue or submit a pull request with your suggestions and contributions. 
 
 ## Contact Us
-Feel free to reach out to any of our team members with questions, feedback, or collaboration opportunities:
+Feel free to reach out with questions, feedback, or collaboration opportunities:
 - [Om Shankar Thakur](https://www.linkedin.com/in/om-shankar-86981b224/)
-- [Danyal Habib](https://www.linkedin.com/in/danyal-habib-500bb2265)
-- [Amber Bagchi](https://www.linkedin.com/in/amber-bagchi-1031a9288/)
-- [Avinash Dubey](https://www.linkedin.com/in/avinash-dubey-036a07271/)
-- [Ankit Kumar](https://www.linkedin.com/in/ankit-kumar-57b128284/)
+
 
 You can connect with us on LinkedIn by clicking on our names above.
 
