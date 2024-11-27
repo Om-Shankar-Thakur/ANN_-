@@ -21,12 +21,6 @@ Developed AI solutions to assess climate risks and vulnerabilities in agricultur
 5. **Market Intelligence:**
 Utilizing AI algorithms to analyze market trends, consumer preferences, and supply chain dynamics to assist farmers in making informed decisions about crop selection and marketing strategies. We integrate price forecasting and risk management tools to optimize profitability and reduce market volatility.
 
-## Collaborators
-This project was made possible by the collaborative efforts of the following contributors:
-- [Danyal Habib](https://github.com/DanyalHabib007)
-- [Amber Bagchi](https://github.com/amber-bagchi)
-- [Avinash Dubey](https://github.com/Just-a-code-lover)
-- [Ankit Kumar](https://github.com/iamankit7667)
 
 ## How to Run This Repository
 To get started with the AI for Sustainable Agriculture project, follow these steps:
